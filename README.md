@@ -14,6 +14,8 @@ qm set 1000 --serial0 socket --vga serial0
 
 1000 - ID ВМ
 
+/var/lib/vz/template/iso - папка образов дистрибутивов
+
 ubuntu-24.04-server-cloudimg-amd64.img - имя файла дистрибутива с cloud-init
 
 local-lvm - имя диска Proxmox для хранения ВМ
