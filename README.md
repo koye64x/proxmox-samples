@@ -11,3 +11,9 @@ qm set 1000 --ide2 local-lvm:cloudinit
 qm set 1000 --boot c --bootdisk scsi0
 qm set 1000 --serial0 socket --vga serial0
 </pre>
+
+1000 - ID ВМ
+
+ubuntu-24.04-server-cloudimg-amd64.img - имя файла дистрибутива с cloud-init
+
+local-lvm - имя диска Proxmox для хранения ВМ
