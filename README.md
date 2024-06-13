@@ -19,3 +19,11 @@ qm set 1000 --serial0 socket --vga serial0
 ubuntu-24.04-server-cloudimg-amd64.img - имя файла дистрибутива с cloud-init
 
 local-lvm - имя диска Proxmox для хранения ВМ
+
+Источники:
+
+https://www.youtube.com/watch?v=Kv6-_--y5CM
+
+https://www.youtube.com/watch?v=shiIi38cJe4&ab_channel=TechnoTim
+
+https://technotim.live/posts/cloud-init-cloud-image/
